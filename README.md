@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset= "utf-8">
@@ -66,24 +65,6 @@
             display: flex;
             margin: 0 auto;
             max-width: 1000px;
-        }
-        #news {
-            max-height: 750px;
-            width: 50%;
-            max-width: 500px;
-            margin-bottom: 20px;
-            background: rgba(110,110,100,0.5);
-            border-top: solid rgba(110,110,100);
-            font-family: courier;
-            direction: rtl;
-            overflow-y: auto;
-        }
-        #news header {
-            text-align: center;
-            margin-top: 20px;
-            background: rgba(165,165,150,0.5);
-            padding: 1px;
-            direction: ltr;
         }
         .date {
             text-align: center;
@@ -189,7 +170,7 @@
             </p>
         </td>
         <td><header><h2>Contact Me</h2></header>
-            <p>elijahwalkerNM<br>@gmail.com</p>
+            <p>WalkingwithScissors320@gmail.com</p>
         </td>
     </table>
     <footer>

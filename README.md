@@ -108,7 +108,6 @@
         ::-webkit-scrollbar-thumb {
             background: rgba(165,165,150,0.8);
         }
-        
         #page-links {
             display: block;
             height: 750px;
@@ -165,19 +164,6 @@
         </tr>
         </table>
 <div id="homecontent">
-    <div id="news">
-        <header><h2>Launch Day!</h2></header>
-        <p class="date">- Wheneverember 32, 20204 -</p>
-        <p class="article">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor pretium viverra suspendisse potenti. Aliquet eget sit amet tellus cras adipiscing. Feugiat in ante metus dictum at tempor. Rhoncus dolor purus non enim praesent elementum facilisis leo.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor pretium viverra suspendisse potenti. Aliquet eget sit amet tellus cras adipiscing. Feugiat in ante metus dictum at tempor. Rhoncus dolor purus non enim praesent elementum facilisis leo.
-        </p>
-        <header><h2>Day After Launch Day!</h2></header>
-        <p class="date">- Wheneverember 33, 20204 -</p>
-        <p class="article">
-            Huzzah! Hypothetically, the site has sucessfully been up for one whole day!<br><br>HALLELUYAR, is'sa MIRACLE!
-        </p>
-        <header><a><h3>Past News</h3></a></header>
-    </div>
     <div id="page-links">
         <div class="page-link-box"><header><h2>Start Reading</h2></header>
         <p>
